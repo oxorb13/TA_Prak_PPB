@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Gunpla"
+        android:icon="@drawable/gunpla"
+        android:id="@+id/HG"
+        android:textColor="@color/white"/>
+
+    <item android:title="Movies"
+        android:icon="@drawable/movies"
+        android:textColor="@color/white"
+        android:id="@+id/Movies"/>
+    <item android:title="Profil"
+        android:icon="@drawable/profil"
+        android:id="@+id/profil"/>
+</menu>
