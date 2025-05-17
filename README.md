@@ -19,7 +19,6 @@ Ini dibuat dengan menggunakan Android Studio dan JavaScript.
 
 - Menampilkan Gunpla
 - Menampilkan Film
-- Import dan save files dari GitHub
 
 
 ## Api
@@ -30,4 +29,4 @@ Terima kasih zuhairajamt.
 ## Installation
 Untuk installasi API dapat dilihat pada link ini :
 https://github.com/zuhairajamt/GundamAPI/blob/master/README.md
-Sekian hehehe
+Sekian
